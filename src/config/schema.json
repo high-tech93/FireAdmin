@@ -1,0 +1,140 @@
+{
+  "about" : [ {
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "heading" : "who we are.",
+    "image" : "http://via.placeholder.com/512x800",
+    "photo" : "http://via.placeholder.com/512x512",
+    "title" : "about us."
+  } ],
+  "events" : [ {
+    "RegisterURL" : "https://www.google.com",
+    "address" : "5 Pybus Rd, Sandton, Johannesburg",
+    "day" : "10 April 2017",
+    "details" : "Details:",
+    "endDate" : "2017-11-10T18:30:00+02:00",
+    "eventLocation" : "Midrand",
+    "image" : "http://via.placeholder.com/512x800",
+    "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "map_lat" : "-26.111324",
+    "map_lng" : "28.055716",
+    "map_zoom" : "16",
+    "notes" : "Awesome Event to Attend",
+    "photo" : "http://via.placeholder.com/512x512/000",
+    "startDate" : "2017-11-10T10:20:00+02:00",
+    "times" : "Sundays, From 08h00 - 11h00",
+    "title" : "Family Weekend Celebration"
+  } ],
+  "profiles" : [ {
+    "date" : "10 April 2017",
+    "details" : "Details:",
+    "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "photo" : "http://via.placeholder.com/512x512",
+    "shareImage" : "http://via.placeholder.com/512x512",
+    "shareLink" : "https://www.google.com/",
+    "shareMessage" : "Your News Message",
+    "shareSubject" : "News Title",
+    "social" : "https://www.instagram.com/touchhdonline/",
+    "title" : "Taking Your Leap of Faith"
+  } ],
+  "videos" : [ {
+    "image" : "http://via.placeholder.com/512x800",
+    "title" : "inspirational music.",
+    "video_title" : "Videos",
+    "audio_title" : "Audio",
+    "videos" : [ {
+      "videoURL" : "https://www.youtube.com/embed/ejvo0ZC2H-Y",
+      "title" : "Video Title 01",
+      "artist" : "Singer 01"
+    } ],
+    "audio" : [ {
+      "audioURL" : "https://www.buzzsprout.com/128873/574437-mychurch-demo?client_source=admin&amp;iframe=true&amp;referrer=https%3A%2F%2Fwww.buzzsprout.com%2Fadmin%2Fpodcasts%2F128873%2Fembed",
+      "title" : "Audio Title 01",
+      "artist" : "Singer 01"
+    } ]
+  } ],
+  "more" : {
+    "bible" : [ {
+      "BibleURL" : "https://www.bible.com/bible"
+    } ],
+    "branches" : [ {
+      "heading" : "where we meet.",
+      "image" : "http://via.placeholder.com/512x800/000",
+      "locations" : [ {
+        "location" : "New York",
+        "map_lat" : "-26.111324",
+        "map_lng" : "28.055716",
+        "map_zoom" : "16",
+        "photo" : "http://via.placeholder.com/512x512",
+        "times" : "Sundays: 09h00"
+      }],
+      "photo" : "http://via.placeholder.com/512x512",
+      "title" : "our branches."
+    } ],
+    "conferences" : [ {
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "details" : "Series info:",
+      "duration" : "10 April - 10 May '17",
+      "episode" : [ {
+        "audioURL" : "https://www.buzzsprout.com/128873/574437-mychurch-demo?client_source=admin&amp;iframe=true&amp;referrer=https%3A%2F%2Fwww.buzzsprout.com%2Fadmin%2Fpodcasts%2F128873%2Fembed",
+        "day" : "10 April '17",
+        "image" : "http://via.placeholder.com/512x512/000",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "leader" : "Mike Smith",
+        "number" : "1",
+        "title" : "Getting Ready",
+        "videoURL" : "https://www.youtube.com/embed/ejvo0ZC2H-Y"
+      }],
+      "icon1" : "videocam",
+      "icon2" : "mic",
+      "length" : "Series duration: 7 weeks.",
+      "photo" : "https://randomuser.me/api/portraits/men/1.jpg",
+      "title" : "Taking A Leap of Faith"
+    }],
+    "connect" : [ {
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "heading" : "connect with us.",
+      "image" : "http://via.placeholder.com/512x800",
+      "photo" : "http://via.placeholder.com/512x512",
+      "title" : "connect with us."
+    } ],
+    "giving" : [ {
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "title" : "giving.",
+      "heading" : "about giving.",
+      "image" : "http://via.placeholder.com/512x800/000",
+      "photo" : "http://via.placeholder.com/512x512",
+      "paypal_client_ID" : "Ae2OQuYzllKKMzjOUJYJjjbd3nZv7J9DM-rpDGOGtYdabHxAWEfuSavc_QtT5tNtxR1iTVtcpqp4nQsN"
+    } ],
+    "leaders" : [ {
+      "image" : "http://via.placeholder.com/512x800",
+      "leader" : [ {
+        "branch" : "Real Madrid Branch.",
+        "name" : "Pastor Jones",
+        "photo" : "http://via.placeholder.com/512x512",
+        "social_icon" : "logo-twitter",
+        "social_link" : "https://twitter.com"
+      } ],
+      "title" : "our leaders."
+    } ],
+    "ministries" : [ {
+      "image" : "http://via.placeholder.com/512x800/000",
+      "ministry" : [ {
+        "image" : "http://via.placeholder.com/592x396/000",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "photo" : "http://via.placeholder.com/512x512",
+        "title" : "Mens Ministry"
+      } ],
+      "title" : "our ministries."
+    } ],
+    "social" : [ {
+      "image" : "http://via.placeholder.com/512x800/000",
+      "photo" : "http://via.placeholder.com/512x512",
+      "platform" : [ {
+        "icon" : "http://via.placeholder.com/512x512/000",
+        "url" : "https://www.youtube.com/embed/ejvo0ZC2H-Y"
+      } ],
+      "subtitle" : "get social with us.",
+      "title" : "get social."
+    } ]
+  }
+}
